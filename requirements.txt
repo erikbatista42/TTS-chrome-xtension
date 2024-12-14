@@ -1,0 +1,5 @@
+flask
+flask-cors
+pygame
+elevenlabs
+python-dotenv
